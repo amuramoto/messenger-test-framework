@@ -2,7 +2,14 @@
   "name": "messenger-test-framework",
   "version": "0.0.1",
   "description": "A framework for testing Messenger webhooks",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "bugs": {
+    "url": "https://github.com/amuramoto/messenger-test-framework/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amuramoto/messenger-test-framework.git"
+  },
   "dependencies": {
     "messenger-node": "",
     "request": ""
