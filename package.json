@@ -11,6 +11,7 @@
     "url": "https://github.com/amuramoto/messenger-test-framework.git"
   },
   "dependencies": {
+    "async": "^2.6.0",
     "messenger-node": "",
     "request": ""
   },
